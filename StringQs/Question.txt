@@ -1,0 +1,24 @@
+split : The split method in JavaScript is used to divide a string into an array of substrings based on a specified separator. 
+
+Q1. Given a string, reverse each word in the sentence.
+
+Q2. How to check if an object is an array or not?
+
+Q3. How to empty an array in JavaScript, do not reset it to a new aaray, and not loop through to pop each value ?
+
+Q4. How would you check if a number is an integer ?
+
+Q5. Make the duplicate of [1,2,3,4,5] to [1,2,3,4,5,1,2,3,4,5];
+
+Q6. Write a JavaScript function that reverse a number.
+
+Q7. Write a JavaScript function that checks whether a passed string is palindrome or not.
+
+Q8. Write a JavaScript function that returns a passed string with letters in a alphabetical order.
+
+Q9. Write a JavaScript function that accepts a string as a parameter and converts the first letter of each word of the string in upper case.
+
+Q10. Write a JavaScript function to get the number of occurences of each letter in specified string.
+
+Q11. Write a JavaScript function which accepts an argument and returns the type ?
+Note : There are six possible values that typeof returns:  object, boolean, function, number, string & undefined.

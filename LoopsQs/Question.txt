@@ -1,0 +1,5 @@
+Q1. Loop an array and add all members of it.
+
+Q2. In an array of numbers and strings, only add those members which are not strings.
+
+Q3. Loop an array of objects and remove all objects which don't have gender's value male.

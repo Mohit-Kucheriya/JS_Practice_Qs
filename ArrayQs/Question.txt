@@ -1,0 +1,13 @@
+Q1. Write a JavaScript function to clone an array.
+
+Q2.Write a JavaScript function to get the first element of an array. Passing a parameter 'n' will return the first 'n' elements of the array.
+
+Q3. Write a JavaScript function to get the last element of an array. Passing a parameter 'n' will return the last 'n' elements of the array.
+
+Q4. Write a JavaScript program to find the most frequent item of an array.
+
+Q5. Write a JavaScript program to shuffle an array.
+
+Q6. Write a JavaScript program to compute of two arrays 
+Example : union([1,2,3],[100,1,2,10]);
+answer : [1,2,3,10,100]
